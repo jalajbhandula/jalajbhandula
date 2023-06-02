@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://jalajbhandula.pages.dev/)
 <div align = "center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&pause=1000&color=FFEC25FF&center=true&vCenter=true&width=350&height=30&lines=Namaste+I'm+Jalaj+Bhandula)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&pause=1000&color=FFDB16FF&center=true&vCenter=true&width=350&height=30&lines=Namaste+I'm+Jalaj+Bhandula)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
   
   <img alt="coding" width="350"  src="https://camo.githubusercontent.com/973ed9aeb3fcbda48056b50f688fa280009567cc020a2b71fc2f67a7e14feb36/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65662f31362f65342f65663136653465363862306433636238316536626238613863333235386437652e676966"/>
 </div>
