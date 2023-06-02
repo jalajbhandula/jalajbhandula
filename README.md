@@ -1,8 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://jalajbhandula.pages.dev/)
 <div align = "center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&pause=1000&color=FFFFFFFF&center=true&vCenter=true&width=350&height=30&lines=Namaste+I'm+Jalaj+Bhandula)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&pause=1000&color=FFEC25FF&center=true&vCenter=true&width=350&height=30&lines=Namaste+I'm+Jalaj+Bhandula)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
   
-  <img alt="coding" width="350"  src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
+  <img alt="coding" width="350"  src="https://camo.githubusercontent.com/973ed9aeb3fcbda48056b50f688fa280009567cc020a2b71fc2f67a7e14feb36/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65662f31362f65342f65663136653465363862306433636238316536626238613863333235386437652e676966"/>
 </div>
 <h3 align="center">A Passionate Software Developer and Open Source Enthusiast from India.</h3>
 
@@ -37,4 +38,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalajbhandula&show_icons=true&locale=en&layout=compact" alt="jalajbhandula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalajbhandula&" alt="jalajbhandula" /></p>
+  <p> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> </p>
+
 </div>
