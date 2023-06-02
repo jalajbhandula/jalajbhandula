@@ -1,6 +1,6 @@
 <div align = "center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=400&height=30&lines=Namaste+I'm+Jalaj+Bhandula)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&weight=500&size=25&pause=1000&color=FFFFFFFF&center=true&vCenter=true&width=350&height=30&lines=Namaste+I'm+Jalaj+Bhandula)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
   
   <img alt="coding" width="350"  src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
 </div>
